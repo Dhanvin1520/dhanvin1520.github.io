@@ -7,18 +7,17 @@
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f9f9f9;
-    color: #333;
-    line-height: 1.6;
+    
 }
 
 .container {
-    width: 85%;
-    margin: 0 auto;
+    width: 95%;
+    margin:auto
 }
 
-/* Header Section */
+
 header {
-    background-color: #0a0a0a; /* Tomato color */
+    background-color: #0a0a0a; 
     color:#FF6347;
     text-align: center;
     padding: 50px 0;
@@ -75,7 +74,7 @@ header p {
 
 
 #contact {
-    background-color: rgb(27, 26, 26);
+    background-color: #141212;
     padding: 40px 0;
 }
 
@@ -102,6 +101,7 @@ footer {
     padding: 20px 0;
     position: fixed;
     bottom: 0;
+    line-height: 0;
     width: 100%;
 }
 
